@@ -1,13 +1,10 @@
 {
-  // ========== Login Screen ==========
     'welcome_message': 'to AiZone',
     'sign_in_subtitle': 'يرجى تسجيل الدخول لمواصلة استخدام التطبيق.',
     'sign_in_with_google': 'تسجيل الدخول بواسطة Google',
     'copyright': 'جميع الحقوق محفوظة. © 2025 AiZone.',
     "sign_in_with_facebook": 'تسجيل الدخول بواسطة Facebook',
     "sign_in_with_github": 'تسجيل الدخول بواسطة GitHub',
-
-    // ========== Home Screen (Chat) ==========
     'how_can_i_help': 'كيف يمكنني مساعدتك اليوم؟',
     'send_message': 'أرسل رسالة...',
     'new_chat': 'محادثة جديدة',
@@ -18,8 +15,6 @@
     'paste_text': 'الصق رابط الفيديو',
     'sending': 'جاري الإرسال...',
     'thinking': 'يفكر...',
-    
-    // ========== Chat Options ==========
     'pin_chat': 'تثبيت',
     'unpin_chat': 'إلغاء التثبيت',
     'rename_chat': 'إعادة التسمية',
@@ -29,10 +24,6 @@
     'save': 'حفظ',
     'chat_name': 'اسم المحادثة',
     'delete_chat_confirmation': 'هل أنت متأكد من حذف هذه المحادثة؟',
-
-    ///////////////////////////////
-    ///
-    ///// Social Screen
     'social_page': 'Verdant Social',
     'download_videos': 'تحميل الفيديوهات',
     'download_subtitle': 'حمّل فيديوهاتك من أي منصة بسهولة',
@@ -47,8 +38,6 @@
     'note': 'ملاحظة',
     'note_message': 'يقبل التطبيق روابط المشاركة والروابط الأصلية من جميع المنصات',
     'facebook_error': 'فشل تحميل الفيديو من فيسبوك\n• جرب رابط آخر\n• تأكد أن الفيديو عام وليس خاص',
-    
-    // Video Library
     'video_library': 'مكتبة الفيديوهات',
     'no_videos': 'لا توجد فيديوهات',
     'play': 'تشغيل',
@@ -56,39 +45,27 @@
     'saving': 'جاري الحفظ...',
     'save_success': '✓ تم الحفظ بنجاح!',
     'save_failed': 'فشل الحفظ',
-    
-    // Platforms
     'platform_tiktok': 'TikTok',
     'platform_fb': 'Facebook',
     'platform_yt': 'YouTube',
     'platform_insta': 'Instagram',
     'platform_pinterest': 'Pinterest',
-    
-    // ========== AI Models ==========
     'gpt4_desc': 'الأقوى في التفكير المنطقي والتحليل العميق',
     'gpt4o_desc': 'الأسرع والأذكى - مخصص للاستجابات السريعة',
-    
-    // ========== Media ==========
     'select_media_type': 'اختر نوع الوسائط',
     'images_from_gallery': 'صور من المعرض',
     'take_picture': 'التقط صورة',
     'uploading_images': 'جاري رفع الصور',
     'image_of': 'صورة {current} من {total}',
     'upload_failed': 'فشل الرفع',
-    
-    // ========== Code ==========
     'full_text': 'النص الكامل',
     'code_copied': 'تم نسخ الكود',
     'message_copied': '✓ تم نسخ الرسالة',
     'lines': 'سطر',
     'click_to_view_code': 'اضغط لعرض الكود كاملاً',
-    
-    // ========== User Profile ==========
     'logout': 'تسجيل الخروج',
     'logout_confirm': 'هل أنت متأكد من تسجيل الخروج؟',
     'user': 'مستخدم',
-    
-    // ========== Pages ==========
     'verdant_ai': 'Verdant AI',
     'verdant_tools': 'Verdant Tools',
     'verdant_social': 'Verdant Social',
@@ -99,16 +76,12 @@
     'ai_conversations': 'الذكاء الاصطناعي والمحادثات',
     'tools_helpers': 'الأدوات والمساعدات',
     'social_communication': 'التواصل الاجتماعي',
-    
-    // ========== Social Screen ==========
     'paste_video_link': 'الصق رابط الفيديو:',
     'detected_platform': 'تم التعرف على: {platform}',
     'downloading': 'جاري التحميل...',
     'save_to_gallery': 'حفظ في المعرض',
     'saved_successfully': '✓ تم الحفظ بنجاح!',
     'note_text': 'يقبل التطبيق روابط المشاركة والروابط الأصلية من جميع المنصات',
-    
-    // ========== Errors ==========
     'no_internet': 'لا يوجد اتصال بالإنترنت',
     'internet_required': 'يجب الاتصال بالإنترنت لإنشاء محادثة جديدة',
     'ok': 'موافق',
@@ -117,8 +90,6 @@
     'download_failed': 'فشل التحميل',
     'platform_not_supported': 'المنصة غير مدعومة أو الرابط غير صحيح',
     'enter_video_link': 'الرجاء إدخال رابط الفيديو',
-    
-    // ========== General ==========
     'close': 'إغلاق',
     'copy': 'نسخ',
     'edit': 'تعديل',
@@ -129,34 +100,19 @@
     'loading': 'جاري التحميل...',
     'done': 'تم',
     'retry': 'إعادة المحاولة',
-
-    // ========== Tools ==========\
     'tools_header': '🛠️ الأدوات الذكية',
     'tools_subtitle': 'أدوات متقدمة لتسهيل عملك اليومي',
-    
-    // 1️⃣ تحويل النص إلى صوت والعكس
     'text_to_speech_tool': 'تحويل النص والصوت',
     'text_to_speech_desc': 'تحويل النص إلى صوت والصوت إلى نص بسهولة',
-    
-    // 2️⃣ إزالة الخلفية
     'remove_background_tool': 'إزالة الخلفية',
     'remove_background_desc': 'احذف خلفية أي صورة بضغطة واحدة',
-    
-    // 3️⃣ إنشاء صور وفيديوهات
     'ai_media_generator_tool': 'إنشاء الوسائط بالذكاء الاصطناعي',
     'ai_media_generator_desc': 'أنشئ صور وفيديوهات احترافية بالذكاء الاصطناعي',
-    
-    // 4️⃣ تحويل صورة إلى نص
     'image_to_text_tool': 'استخراج النص من الصور',
     'image_to_text_desc': 'حول أي صورة تحتوي على نص إلى نص قابل للتحرير',
-    
-    // 5️⃣ تحويل ترميز
     'encoding_converter_tool': 'محول الترميز',
     'encoding_converter_desc': 'حول بين أنواع الترميز المختلفة بسهولة',
-    
-    // رسائل عامة
     'coming_soon': 'قريباً...',
-
     'text_speech_converter': 'محول النص والصوت',
     'text_to_speech': 'نص إلى صوت',
     'speech_to_text': 'صوت إلى نص',
@@ -173,10 +129,6 @@
     'sample_transcribed_text': 'هذا نص تجريبي تم استخراجه من الصوت. في التطبيق الحقيقي، سيتم تحويل صوتك إلى نص بدقة عالية.',
     'text_to_speech_info': 'اكتب أي نص وسيتم تحويله إلى صوت واضح',
     'speech_to_text_info': 'اضغط على الميكروفون وابدأ الحديث لتحويل صوتك إلى نص',
-
-
-   /////////////////////////////////////////////////////////
-   ///// TTS Screen
     'select_voice': 'اختر الصوت',
     'text_input': 'النص',
     'enter_text_hint': 'اكتب النص هنا...',
@@ -186,17 +138,11 @@
     'audio_player': 'مشغل الصوت',
     'speed': 'السرعة',
     'volume': 'الصوت',
-    
-    // Messages
     'preview_text': 'مرحباً بك في AiZone',
     'conversion_success': '✅ تم التحويل بنجاح',
     'deleted': 'تم الحذف',
-    
-    // Dialog
     'delete_clip': 'حذف المقطع؟',
     'delete_confirmation': 'هل تريد حذف هذا المقطع الصوتي؟',
-
-
     'remove_bg_title': 'إزالة الخلفية',
     'remove_bg_subtitle': 'أزل خلفية صورك بسهولة',
     'choose_image': 'اختر صورة',
@@ -206,35 +152,19 @@
     'processing': 'جاري المعالجة...',
     'processing_wait': 'قد تستغرق العملية دقيقة',
     'result': 'النتيجة',
-    
-    // رسائل النجاح والفشل
     'bg_removed_success': '✅ تم إزالة الخلفية بنجاح',
     'processing_failed': '❌ فشل في معالجة الصورة',
     'error_occurred': '❌ حدث خطأ غير متوقع',
     'image_saved_success': '✅ تم حفظ الصورة في المعرض بنجاح',
-
-
-    // App Bar & Titles
-      'generate_image_title': 'توليد الصور',
-      'generate_image_subtitle': 'حول كلماتك إلى صور مذهلة',
-      
-      // Input & Actions
-      'enter_prompt': 'صف الصورة التي تريد إنشاءها',
-      'generate_button': 'إنشاء الصورة',
-      
-      // Loading States
-      'generating_image': 'جاري إنشاء تحفتك الفنية...',
-      'generating_wait': 'قد يستغرق هذا بضع لحظات',
-      
-      // Results
-      'generated_result': 'تم الإنشاء بنجاح',
-      
-      // Success Messages
-      'image_generated_success': 'تم إنشاء الصورة بنجاح!',
-      
-      // Error Messages
-      'generation_failed': 'فشل في إنشاء الصورة',
-
-      'smm_aizone_title':'خدمات توريد المنصة',
-      'smm_aizone_des':'توفير كل ما يتعلق بالمنصات في مكان واحد',
+    'generate_image_title': 'توليد الصور',
+    'generate_image_subtitle': 'حول كلماتك إلى صور مذهلة',
+    'enter_prompt': 'صف الصورة التي تريد إنشاءها',
+    'generate_button': 'إنشاء الصورة',
+    'generating_image': 'جاري إنشاء تحفتك الفنية...',
+    'generating_wait': 'قد يستغرق هذا بضع لحظات',
+    'generated_result': 'تم الإنشاء بنجاح',
+    'image_generated_success': 'تم إنشاء الصورة بنجاح!',
+    'generation_failed': 'فشل في إنشاء الصورة',
+    'smm_aizone_title':'خدمات توريد المنصة',
+    'smm_aizone_des':'توفير كل ما يتعلق بالمنصات في مكان واحد',
 }
