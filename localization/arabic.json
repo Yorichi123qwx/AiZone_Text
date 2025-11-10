@@ -21,6 +21,7 @@
     "delete_chat": "حذف",
     "delete_confirm": "هل أنت متأكد من حذف هذه المحادثة؟",
     "cancel": "إلغاء",
+    "logout_confrimation":"هل أنت متأكد من تسجيل الخروج؟",
     "save": "حفظ",
     "chat_name": "اسم المحادثة",
     "logout_confirm": "هل أنت متأكد من تسجيل الخروج؟",
