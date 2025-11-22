@@ -168,5 +168,22 @@
     "image_generated_success": "Image generated successfully!",
     "generation_failed": "Failed to generate image",
     "smm_aizone_title": "Platform supply services",
-    "smm_aizone_des": "Providing everything related to platforms in one place"
+    "smm_aizone_des": "Providing everything related to platforms in one place",
+"reaching_request": "Reaching your request...",
+"reached_improving": "Reached, improving for better results...",
+"searching_knowledge": "Searching knowledge base...",
+"formulating_response": "Formulating the best possible response...",
+"welcome_dialog_title": "Welcome to AiZone",
+"welcome_user": "Welcome,",
+"start_now": "Start Now",
+"welcome_description": "AiZone is your ideal assistant to solve all your problems",
+"programmed_by": "Programmed by:",
+"reviewed_by": "Reviewed by:",
+"newest_first": "Newest First",
+"oldest_first": "Oldest First",
+"incomplete_chats": "Incomplete",
+"stop": "Stop",
+"forward_message": "Forward",
+"select_chat_forward": "Select Chat",
+"forwarded_successfully": "✓ Forwarded Successfully"
 }
