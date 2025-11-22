@@ -170,5 +170,22 @@
     "image_generated_success": "تم إنشاء الصورة بنجاح!",
     "generation_failed": "فشل في إنشاء الصورة",
     "smm_aizone_title": "خدمات توريد المنصة",
-    "smm_aizone_des": "توفير كل ما يتعلق بالمنصات في مكان واحد"
+    "smm_aizone_des": "توفير كل ما يتعلق بالمنصات في مكان واحد",
+    "reaching_request": "جاري الوصول إلى الطلب الذي تريده...",
+"reached_improving": "تم الوصول، جاري التحسين للحصول على نتيجة أفضل...",
+"searching_knowledge": "جاري البحث في قاعدة المعرفة...",
+"formulating_response": "جاري صياغة الرد بأفضل طريقة ممكنة...",
+"welcome_dialog_title": "مرحباً بك في AiZone",
+"welcome_user": "مرحباً،",
+"start_now": "ابدأ الآن",
+"welcome_description": "AiZone هو تطبيقك المثالي ومساعدك الذكي لحل جميع مشاكلك",
+"programmed_by": "برمجة:",
+"reviewed_by": "مراجعة:",
+"newest_first": "الأحدث أولاً",
+"oldest_first": "الأقدم أولاً",
+"incomplete_chats": "لم يتم إكمالها",
+"stop": "إيقاف",
+"forward_message": "إعادة توجيه",
+"select_chat_forward": "اختر محادثة",
+"forwarded_successfully": "✓ تم التحويل بنجاح"
 }
