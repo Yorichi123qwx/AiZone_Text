@@ -187,5 +187,24 @@
 "stop": "إيقاف",
 "forward_message": "إعادة توجيه",
 "select_chat_forward": "اختر محادثة",
-"forwarded_successfully": "✓ تم التحويل بنجاح"
+"forwarded_successfully": "✓ تم التحويل بنجاح",
+    "download_error": "فشل التحميل",
+  "alternative_solution": "الحل البديل:",
+  "step_1": "1️⃣ افتح تطبيق Telegram",
+  "step_2": "2️⃣ ابحث عن البوت باسم: @aizone12_bot",
+  "step_3": "3️⃣ أرسل رابط الفيديو للبوت",
+  "step_4": "4️⃣ سيرسل لك البوت الفيديو فوراً!",
+  "bot_name_copied": "✅ تم نسخ اسم البوت:",
+  "copy_bot_name": "📋 نسخ اسم البوت",
+  
+  "downloading_video": "جاري تحميل الفيديو...",
+  "cancel_download": "إلغاء التحميل",
+  
+  "delete_account_permanently": "⚠️ حذف الحساب نهائياً",
+  "delete_account_warning": "⚠️ تحذير: سيتم حذف حسابك وجميع بياناتك نهائياً!\nهذه العملية لا يمكن التراجع عنها.",
+  "password": "كلمة المرور",
+  "delete_permanently": "حذف نهائياً",
+  
+  "incomplete_response": "⚠️ الرد غير مكتمل",
+  "incomplete_warning": "يبدو أن هذا الرد لم يكتمل. هل تريد إعادة المحاولة؟"
 }
