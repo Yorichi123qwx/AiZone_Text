@@ -185,5 +185,28 @@
 "stop": "Stop",
 "forward_message": "Forward",
 "select_chat_forward": "Select Chat",
-"forwarded_successfully": "✓ Forwarded Successfully"
+"forwarded_successfully": "✓ Forwarded Successfully",
+    "download_error": "Download Failed",
+  "alternative_solution": "Alternative Solution:",
+  "step_1": "1️⃣ Open Telegram app",
+  "step_2": "2️⃣ Search for bot: @aizone12_bot",
+  "step_3": "3️⃣ Send the video link to the bot",
+  "step_4": "4️⃣ The bot will send you the video instantly!",
+  "bot_name_copied": "✅ Bot name copied:",
+  "copy_bot_name": "📋 Copy Bot Name",
+  
+  "downloading_video": "Downloading video...",
+  "downloading_song": "Downloading song...",
+  "cancel_download": "Cancel Download",
+  
+  "spotify_note": "⚠️ Spotify tracks cannot be played in the app. Use 'Save' button to download as MP3",
+  "save_song_note": "💡 Press 'Save' to download the song as MP3 file",
+  
+  "delete_account_permanently": "⚠️ Delete Account Permanently",
+  "delete_account_warning": "⚠️ Warning: Your account and all data will be permanently deleted!\nThis action cannot be undone.",
+  "password": "Password",
+  "delete_permanently": "Delete Permanently",
+  
+  "incomplete_response": "⚠️ Incomplete Response",
+  "incomplete_warning": "This response seems incomplete. Would you like to retry?"
 }
