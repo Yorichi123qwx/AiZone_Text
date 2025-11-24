@@ -326,5 +326,22 @@
   "video_deleted": "تم حذف الفيديو",
   "video_saved_success": "✅ تم حفظ الفيديو في المعرض بنجاح",
   "translator_tool": "مترجم AI احترافي",
-    "translator_desc": "ترجمة فورية لكل اللغات مع حفظ تلقائي"
+    "translator_desc": "ترجمة فورية لكل اللغات مع حفظ تلقائي",
+    "trans_title": "مترجم AI",
+  "trans_from": "من",
+  "trans_to": "إلى",
+  "trans_original_text": "النص الأصلي",
+  "trans_hint": "اكتب أو الصق النص هنا...",
+  "trans_translate_now": "ترجمة الآن",
+  "trans_translation": "الترجمة",
+  "trans_enter_text": "الرجاء إدخال نص للترجمة",
+  "trans_error": "خطأ في الترجمة",
+  "trans_copied": "تم النسخ بنجاح",
+  "trans_clear_history": "مسح السجل",
+  "trans_clear_history_confirm": "هل تريد حذف جميع الترجمات المحفوظة؟",
+  "trans_no_history": "لا توجد ترجمات محفوظة",
+  "trans_time_now": "الآن",
+  "trans_time_minutes": "منذ {n} دقيقة",
+  "trans_time_hours": "منذ {n} ساعة",
+  "trans_time_days": "منذ {n} يوم"
 }
