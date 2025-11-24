@@ -312,5 +312,22 @@
   "video_deleted": "Video deleted",
   "video_saved_success": "✅ Video saved to gallery successfully",
     "translator_tool": "Professional AI Translator",
-"translator_desc": "Instant translation for all languages with auto-save"
+"translator_desc": "Instant translation for all languages with auto-save",
+    "trans_title": "AI Translator",
+  "trans_from": "From",
+  "trans_to": "To",
+  "trans_original_text": "Original Text",
+  "trans_hint": "Type or paste text here...",
+  "trans_translate_now": "Translate Now",
+  "trans_translation": "Translation",
+  "trans_enter_text": "Please enter text to translate",
+  "trans_error": "Translation error",
+  "trans_copied": "Copied successfully",
+  "trans_clear_history": "Clear History",
+  "trans_clear_history_confirm": "Do you want to delete all saved translations?",
+  "trans_no_history": "No saved translations",
+  "trans_time_now": "Now",
+  "trans_time_minutes": "{n} minutes ago",
+  "trans_time_hours": "{n} hours ago",
+  "trans_time_days": "{n} days ago"
 }
