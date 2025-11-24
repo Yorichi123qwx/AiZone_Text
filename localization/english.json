@@ -310,5 +310,7 @@
   "video_generated_success": "Video generated successfully!",
   "saved_videos": "Saved Videos",
   "video_deleted": "Video deleted",
-  "video_saved_success": "✅ Video saved to gallery successfully"
+  "video_saved_success": "✅ Video saved to gallery successfully",
+    "translator_tool": "Professional AI Translator",
+"translator_desc": "Instant translation for all languages with auto-save"
 }
