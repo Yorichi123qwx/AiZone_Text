@@ -346,5 +346,11 @@
   "trans_time_now": "الآن",
   "trans_time_minutes": "منذ {n} دقيقة",
   "trans_time_hours": "منذ {n} ساعة",
-  "trans_time_days": "منذ {n} يوم"
+  "trans_time_days": "منذ {n} يوم",
+  "about_app": "عن التطبيق",
+  "about_app_desc": "معلومات عن التطبيق والفريق",
+  "ai_assistant_platform": "منصة المساعد الذكي",
+  "app_info": "معلومات التطبيق",
+  "about_long_description": "AiZone هي منصة متقدمة للمساعد الذكي...",
+  "about_us": "من نحن"
 }
