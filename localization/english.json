@@ -332,5 +332,11 @@
   "trans_time_now": "Now",
   "trans_time_minutes": "{n} minutes ago",
   "trans_time_hours": "{n} hours ago",
-  "trans_time_days": "{n} days ago"
+  "trans_time_days": "{n} days ago",
+  "about_app": "About App",
+  "about_app_desc": "Information about the app and team",
+  "ai_assistant_platform": "AI Assistant Platform",
+  "app_info": "Application Information",
+  "about_long_description": "AiZone is an advanced AI assistant platform...",
+  "about_us": "About Us"
 }
