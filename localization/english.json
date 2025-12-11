@@ -333,10 +333,15 @@
   "trans_time_minutes": "{n} minutes ago",
   "trans_time_hours": "{n} hours ago",
   "trans_time_days": "{n} days ago",
-  "about_app": "About App",
-  "about_app_desc": "Information about the app and team",
   "ai_assistant_platform": "AI Assistant Platform",
   "app_info": "Application Information",
   "about_long_description": "AiZone is an advanced AI assistant platform...",
-  "about_us": "About Us"
+  "language_tools_section": "Language & Translation Tools",
+  "language_tools_desc": "Translation and text conversion",
+  "media_tools_section": "Media & Image Tools",
+  "media_tools_desc": "Image processing and generation",
+  "video_tools_section": "Video Tools",
+  "video_tools_desc": "Video creation and processing",
+  "document_tools_section": "Platform Tools",
+  "document_tools_desc": "Platform services and more"
 }
