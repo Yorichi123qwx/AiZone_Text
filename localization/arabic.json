@@ -347,10 +347,15 @@
   "trans_time_minutes": "منذ {n} دقيقة",
   "trans_time_hours": "منذ {n} ساعة",
   "trans_time_days": "منذ {n} يوم",
-  "about_app": "عن التطبيق",
-  "about_app_desc": "معلومات عن التطبيق والفريق",
   "ai_assistant_platform": "منصة المساعد الذكي",
   "app_info": "معلومات التطبيق",
   "about_long_description": "AiZone هي منصة متقدمة للمساعد الذكي...",
-  "about_us": "من نحن"
+  "language_tools_section": "أدوات اللغة والترجمة",
+  "language_tools_desc": "ترجمة وتحويل النصوص",
+  "media_tools_section": "أدوات الوسائط والصور",
+  "media_tools_desc": "معالجة وتوليد الصور",
+  "video_tools_section": "أدوات الفيديو",
+  "video_tools_desc": "إنشاء ومعالجة الفيديوهات",
+  "document_tools_section": "أدوات المنصات",
+  "document_tools_desc": "خدمات المنصات واخرى"
 }
