@@ -1,1 +1,1 @@
-http://panel.arabdevs.my.id:3035/chat
+https://dash.mega-host.site:10018/chat
