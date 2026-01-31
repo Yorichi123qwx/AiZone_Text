@@ -1,0 +1,75 @@
+{
+  "header": {
+    "title": "🤖 AiZone API",
+    "subtitle": "AI Chat API - Simple & Powerful"
+  },
+  "quickStart": {
+    "title": "⚡ Quick Start",
+    "steps": [
+      "1️⃣ Get your API Key from dashboard",
+      "2️⃣ Use the endpoint below",
+      "3️⃣ Start building!"
+    ]
+  },
+  "endpoint": {
+    "title": "🔗 API Endpoint",
+    "url": "https://elshamy.mega-host.site/api/chat"
+  },
+  "authentication": {
+    "title": "🔐 Authentication",
+    "description": "Add your API key in the request header:",
+    "example": "X-API-Key: az_live_your_key_here"
+  },
+  "requestFormat": {
+    "title": "📤 Request Format",
+    "method": "POST /api/chat",
+    "example": "{\n  \"q\": \"Your message here\",\n  \"chat_id\": \"optional-chat-id\",\n  \"images\": [\"image_url\"] // optional\n}"
+  },
+  "responseFormat": {
+    "title": "📥 Response Format",
+    "example": "{\n  \"response\": \"AI reply here\",\n  \"chat_id\": \"chat-123\",\n  \"language\": \"arabic\",\n  \"status\": \"success\"\n}"
+  },
+  "codeExamples": {
+    "title": "💻 Code Examples",
+    "languages": [
+      {
+        "name": "🐍 Python",
+        "code": "import requests\n\nurl = \"https://elshamy.mega-host.site/api/chat\"\nheaders = {\n    \"X-API-Key\": \"az_live_your_key\",\n    \"Content-Type\": \"application/json\"\n}\ndata = {\n    \"q\": \"مرحباً، كيف حالك؟\"\n}\n\nresponse = requests.post(url, headers=headers, json=data)\nresult = response.json()\nprint(result[\"response\"])"
+      },
+      {
+        "name": "🟨 JavaScript",
+        "code": "const response = await fetch(\n  \"https://elshamy.mega-host.site/api/chat\",\n  {\n    method: \"POST\",\n    headers: {\n      \"X-API-Key\": \"az_live_your_key\",\n      \"Content-Type\": \"application/json\"\n    },\n    body: JSON.stringify({\n      q: \"Hello, how are you?\"\n    })\n  }\n);\n\nconst data = await response.json();\nconsole.log(data.response);"
+      },
+      {
+        "name": "🐘 PHP",
+        "code": "<?php\n$url = \"https://elshamy.mega-host.site/api/chat\";\n$data = json_encode([\"q\" => \"مرحباً\"]);\n\n$ch = curl_init($url);\ncurl_setopt($ch, CURLOPT_POST, true);\ncurl_setopt($ch, CURLOPT_POSTFIELDS, $data);\ncurl_setopt($ch, CURLOPT_RETURNTRANSFER, true);\ncurl_setopt($ch, CURLOPT_HTTPHEADER, [\n    \"X-API-Key: az_live_your_key\",\n    \"Content-Type: application/json\"\n]);\n\n$response = curl_exec($ch);\n$result = json_decode($response, true);\necho $result[\"response\"];\ncurl_close($ch);\n?>"
+      },
+      {
+        "name": "⚡ cURL",
+        "code": "curl -X POST https://elshamy.mega-host.site/api/chat \\\n  -H \"X-API-Key: az_live_your_key\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"q\": \"Hello!\"}'"
+      }
+    ]
+  },
+  "features": {
+    "title": "✨ Features",
+    "list": [
+      "💬 Smart Chat Responses",
+      "🖼️ Image Analysis Support",
+      "🌍 Multi-language (Arabic/English)",
+      "🧠 Context Memory",
+      "⚡ Fast Response Time"
+    ]
+  },
+  "rateLimits": {
+    "title": "⏱️ Rate Limits",
+    "description": "Check your dashboard for your API key limits.\nEach key has specific usage quotas."
+  },
+  "support": {
+    "title": "💬 Support",
+    "email": "📧 Email: support@aizone.app",
+    "website": "🌐 Website: Coming Soon"
+  },
+  "footer": {
+    "text": "Made with ❤️ by Mohamed Ahmed Elshamy"
+  }
+}
