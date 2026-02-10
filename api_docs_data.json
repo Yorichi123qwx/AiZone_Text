@@ -23,7 +23,7 @@
   "requestFormat": {
     "title": "📤 Request Format",
     "method": "POST /api/chat",
-    "example": "{\n  \"q\": \"Your message here\",\n  \"chat_id\": \"optional-chat-id\",\n  \"images\": [\"image_url\"] // optional\n}"
+    "example": "{\n  \"q\": \"Your message here\",\n  \"chat_id\": \"optional-chat-id\",\n  \"images\": [\"images\"] // optional\n}"
   },
   "responseFormat": {
     "title": "📥 Response Format",
