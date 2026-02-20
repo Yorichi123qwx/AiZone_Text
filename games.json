@@ -1,0 +1,76 @@
+{
+  "games": [
+    {
+      "id": "akinator",
+      "name_ar": "المارد",
+      "name_en": "Akinator",
+      "description_ar": "فكر بشخصية وسأحاول أن أخمنها!",
+      "description_en": "Think of a character and I'll try to guess it!",
+      "icon": "🧞",
+      "message_ar": ".المارد",
+      "message_en": ".akinator",
+      "color": "#8B5CF6",
+      "available": true
+    },
+    {
+      "id": "riddles",
+      "name_ar": "الألغاز",
+      "name_en": "Riddles",
+      "description_ar": "حل الألغاز الممتعة والمسلية!",
+      "description_en": "Solve fun and entertaining riddles!",
+      "icon": "🧩",
+      "message_ar": ".ألغاز",
+      "message_en": ".riddles",
+      "color": "#F59E0B",
+      "available": true
+    },
+    {
+      "id": "story",
+      "name_ar": "قصة تفاعلية",
+      "name_en": "Interactive Story",
+      "description_ar": "اصنع قصتك الخاصة خطوة بخطوة!",
+      "description_en": "Create your own story step by step!",
+      "icon": "📖",
+      "message_ar": ".قصة",
+      "message_en": ".story",
+      "color": "#10B981",
+      "available": true
+    },
+    {
+      "id": "quiz",
+      "name_ar": "اختبار معلومات",
+      "name_en": "Trivia Quiz",
+      "description_ar": "اختبر معلوماتك في مختلف المجالات!",
+      "description_en": "Test your knowledge in various fields!",
+      "icon": "🎯",
+      "message_ar": ".معلومات",
+      "message_en": ".quiz",
+      "color": "#3B82F6",
+      "available": true
+    },
+    {
+      "id": "word_guess",
+      "name_ar": "خمن الكلمة",
+      "name_en": "Word Guess",
+      "description_ar": "خمن الكلمة من التلميحات!",
+      "description_en": "Guess the word from the hints!",
+      "icon": "🔤",
+      "message_ar": ".كلمة",
+      "message_en": ".wordguess",
+      "color": "#EF4444",
+      "available": true
+    },
+    {
+      "id": "number_game",
+      "name_ar": "لعبة الأرقام",
+      "name_en": "Number Game",
+      "description_ar": "فكر برقم وسأخمنه في 7 أسئلة!",
+      "description_en": "Think of a number and I'll guess it in 7 questions!",
+      "icon": "🔢",
+      "message_ar": ".أرقام",
+      "message_en": ".numbergame",
+      "color": "#06B6D4",
+      "available": true
+    }
+  ]
+}
