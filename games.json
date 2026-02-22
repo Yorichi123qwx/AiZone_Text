@@ -11,6 +11,19 @@
       "message_en": ".akinator",
       "color": "#8B5CF6",
       "available": true
+    },
+    
+    {
+      "id": "riddles",
+      "name_ar": "الألغاز",
+      "name_en": "Riddles",
+      "description_ar": "حل الألغاز الممتعة والمسلية!",
+      "description_en": "Solve fun and entertaining riddles!",
+      "icon": "🧩",
+      "message_ar": ".ألغاز",
+      "message_en": ".riddles",
+      "color": "#F59E0B",
+      "available": true
     }
   ]
 }
