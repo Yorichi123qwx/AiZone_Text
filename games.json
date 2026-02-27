@@ -23,18 +23,6 @@
       "message_en": ".riddles",
       "color": "#F59E0B",
       "available": true
-    },
-    {
-      "id": "hangman",
-      "name_ar": "المشنقة",
-      "name_en": "Hangman",
-      "description_ar": "خمّن الكلمة حرفاً بحرف قبل ما الراجل يموت!",
-      "description_en": "Guess the word letter by letter before the man dies!",
-      "icon": "🎯",
-      "message_ar": ".مشنقة",
-      "message_en": ".hangman",
-      "color": "#EF4444",
-      "available": true
     }
   ]
 }
