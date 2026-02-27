@@ -363,5 +363,13 @@
   "suggestion_3": "كيف أحسّن مهاراتي في التعلم",
   "suggestion_4": "أعطني نصائح للحفاظ على صحة جيدة",
   "suggestion_5": "ساعدني في كتابة قصة قصيرة ملهمة",
-  "suggestion_6": "كيف أنظم وقتي بشكل أفضل؟"
+  "suggestion_6": "كيف أنظم وقتي بشكل أفضل؟",
+  "text_to_qr_tool": "Text to QR Tool",
+  "text_to_qr_desc": "Convert text into a QR code",
+  "qr_to_text_tool": "QR to Text Tool",
+  "qr_to_text_desc": "Extract text from a QR code",
+  "video_to_audio_tool": "Video to Audio Tool",
+  "video_to_audio_desc": "Extract audio from a video file",
+  "emoji_mixer_tool": "Emoji Mixer Tool",
+  "emoji_mixer_desc": "Mix or combine emojis"
 }
