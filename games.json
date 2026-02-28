@@ -23,6 +23,18 @@
       "message_en": ".riddles",
       "color": "#F59E0B",
       "available": true
+    },
+    {
+      "id": "story",
+      "name_ar": "القصة التفاعلية",
+      "name_en": "Interactive Story",
+      "description_ar": "عيش مغامرة وأنت من يقرر مصيرها!",
+      "description_en": "Live an adventure and you decide its fate!",
+      "icon": "🎭",
+      "message_ar": ".قصة",
+      "message_en": ".story",
+      "color": "#EC4899",
+      "available": true
     }
   ]
 }
