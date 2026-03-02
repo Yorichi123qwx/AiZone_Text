@@ -1,1 +1,1 @@
-https://host.tarboo.xyz/chat
+http://host.tarboo.xyz/chat
