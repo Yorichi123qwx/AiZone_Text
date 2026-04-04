@@ -1,18 +1,6 @@
 {
   "games": [
     {
-      "id": "akinator",
-      "name_ar": "المارد",
-      "name_en": "Akinator",
-      "description_ar": "فكر بشخصية وسأحاول أن أخمنها!",
-      "description_en": "Think of a character and I'll try to guess it!",
-      "icon": "🧞",
-      "message_ar": ".المارد",
-      "message_en": ".akinator",
-      "color": "#8B5CF6",
-      "available": true
-    },
-    {
       "id": "riddles",
       "name_ar": "الألغاز",
       "name_en": "Riddles",
