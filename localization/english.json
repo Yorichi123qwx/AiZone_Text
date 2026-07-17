@@ -5,6 +5,7 @@
 "enter_code_hint": "Enter the code you received",
 "resend_code": "Resend code",
 "verify_code": "Verify Code",
+  "verify_email_button": "Verify Email",
 "send_code": "Send Code",
 "invalid_code": "Incorrect or expired code, try again",
 "enter_email_first": "Enter your email first",
