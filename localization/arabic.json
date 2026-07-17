@@ -5,6 +5,7 @@
 "enter_code_hint": "اكتب الكود اللي وصلك",
 "resend_code": "إعادة إرسال الكود",
 "verify_code": "تأكيد الكود",
+  "verify_email_button": "تحقق من الإيميل",
 "send_code": "ابعت الكود",
 "invalid_code": "الكود غلط أو منتهي، جرب تاني",
 "enter_email_first": "اكتب الإيميل الأول",
