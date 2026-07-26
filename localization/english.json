@@ -5,7 +5,7 @@
 "clipboard_downloading": "Link found, Downloading video now...",
 "clipboard_empty": "No link found in clipboard right now",
 "clipboard_unsupported": "The link in your clipboard isn't from a supported platform",
-"clipboard_error": "Something went wrong while reading the clipboard"
+"clipboard_error": "Something went wrong while reading the clipboard",
 "sign_in_with_email": "Sign in with Email",
 "email_sent_to": "Code sent to",
 "edit": "Edit",
