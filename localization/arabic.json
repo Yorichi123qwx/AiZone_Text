@@ -1,8 +1,15 @@
 {
-  "sign_in_with_email": "الدخول بالإيميل",
+"auto_clipboard_toggle": "تحميل تلقائي من الحافظة",
+"clipboard_read_button": "قراءة",
+"clipboard_checking": "جاري القراءة...",
+"clipboard_downloading": "تم قرائة الرابط، يتم الان تحميل الفيديو...",
+"clipboard_empty": "مفيش رابط في الحافظة دلوقتي",
+"clipboard_unsupported": "الرابط اللي في الحافظة مش من منصة مدعومة",
+"clipboard_error": "حصل خطأ وإحنا بنقرا الحافظة"
+"sign_in_with_email": "الدخول بالإيميل",
 "email_sent_to": "تم إرسال الكود إلى",
 "edit": "تعديل",
-  "complete_profile_title": "كمّل بياناتك",
+"complete_profile_title": "كمّل بياناتك",
 "complete_profile_subtitle": "شوية معلومات بسيطة عشان نبدأ",
 "full_name": "الاسم بالكامل",
 "full_name_hint": "اكتب اسمك",
