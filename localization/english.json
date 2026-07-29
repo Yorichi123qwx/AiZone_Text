@@ -1,4 +1,8 @@
 {
+  "voice_selection_title": "Voice Selection",
+  "voice_selection_subtitle": "Choose the voice that will read responses aloud when you tap Listen.",
+  "voice_preview_failed": "Couldn't play the voice. Please try again.",
+  "voice_saved": "Selected voice saved successfully.",
   "support_title": "Contact Support",
 "support_subtitle": "We're here to help, send us your message and we'll get back to you soon",
 "support_subject_label": "Subject",
