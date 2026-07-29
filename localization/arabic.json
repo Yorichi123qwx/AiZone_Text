@@ -1,8 +1,8 @@
 {
-  "voice_selection_title": "Voice Selection",
-  "voice_selection_subtitle": "Choose the voice that will read responses aloud when you tap Listen.",
-  "voice_preview_failed": "Couldn't play the voice. Please try again.",
-  "voice_saved": "Selected voice saved successfully.",
+  "voice_selection_title": "اختيار الصوت",
+  "voice_selection_subtitle": "اختر الصوت الذي سيقرأ الردود عند الضغط على زر الاستماع.",
+  "voice_preview_failed": "تعذر تشغيل الصوت، يرجى المحاولة مرة أخرى.",
+  "voice_saved": "تم حفظ الصوت المحدد بنجاح.",
   "support_title": "تواصل مع الدعم",
 "support_subtitle": "احنا هنا عشان نساعدك، ابعتلنا رسالتك وهنرد عليك في أقرب وقت",
 "support_subject_label": "الموضوع",
