@@ -1,0 +1,17 @@
+[
+  {
+    "id": "no_ads",
+    "name": "No Ads Plan",
+    "price": 20,
+    "color": "#3B82F6",
+    "icon": "block",
+    "badge": "Popular",
+    "hasAds": false,
+    "features": [
+      "Remove all ads",
+      "Unlimited chat downloads",
+      "Unlimited image uploads",
+      "No usage limits"
+    ]
+  }
+]
