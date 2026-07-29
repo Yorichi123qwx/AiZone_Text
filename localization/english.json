@@ -1,4 +1,10 @@
 {
+  "app_name": "AiZone",
+  "app_tagline": "AI assistant platform",
+  "app_developer": "Mohamed Ahmed Elshamy",
+  "app_sponsor": "Tech Zone(TZ)",
+  "app_version": "4.0.0",
+  "about_description": "AI Zone is an all-in-one AI assistant that helps you work smarter and save time. Chat with AI, analyze images, generate and improve text, translate languages, solve problems, and access useful tools for your daily tasks. You can also download videos from popular social media platforms quickly and easily—all in one fast, secure, and easy-to-use app."
   "security_subtitle": "Your privacy and data encryption",
 "security_intro": "Your privacy and security matter most to us — here's a quick summary of how we protect you.",
 "security_chats_title": "Your chats are fully encrypted",
