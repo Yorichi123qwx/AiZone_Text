@@ -1,4 +1,7 @@
 {
+  "reward_ad_title": "Continue with a Short Ad",
+  "reward_ad_message": "Watch a short ad to continue, or subscribe for an ad-free experience.",
+  "watch_ad_button": "Watch Short Ad",
   "voice_selection_title": "Voice Selection",
   "voice_selection_subtitle": "Choose the voice that will read responses when you tap the listen button.",
   "voice_preview_failed": "Couldn't play the audio, please try again.",
