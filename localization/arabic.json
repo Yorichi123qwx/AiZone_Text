@@ -1,4 +1,5 @@
 {
+  "downloading_progress": "جارِ التنزيل...",
   "voice_selection_title": "اختيار الصوت",
   "voice_selection_subtitle": "اختر الصوت الذي سيقرأ الردود عند الضغط على زر الاستماع.",
   "voice_preview_failed": "تعذر تشغيل الصوت، يرجى المحاولة مرة أخرى.",
