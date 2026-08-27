@@ -13,19 +13,18 @@
       "Unlimited image uploads",
       "No usage limits"
     ]
-  }
-
+  },
   {
-  "id": "image_pro",
-  "name": "باقة الصور",
-  "price": 35,
-  "color": "#10B981",
-  "icon": "auto_awesome",
-  "badge": "جديد",
-  "features": [
-    "5 صور مجانية يوميًا في توليد الصور بالذكاء الصناعي",
-    "5 صور مجانية يوميًا في تعديل الصور بالذكاء الصناعي",
-    "الرصيد بيتجدد تلقائيًا كل يوم"
-  ]
-}
+    "id": "image_pro",
+    "name": "Image Pack",
+    "price": 35,
+    "color": "#10B981",
+    "icon": "auto_awesome",
+    "badge": "New",
+    "features": [
+      "5 free daily AI image generations",
+      "5 free daily AI image edits",
+      "Credit auto-renews every day"
+    ]
+  }
 ]
