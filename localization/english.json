@@ -1,4 +1,14 @@
 {
+    "edit_image_title": "Edit Image",
+  "edit_image_subtitle": "Upload an image and describe the edit you want (e.g., remove background, change shirt color, add a sunset...)",
+  "select_image_to_edit": "Pick an image from your gallery to edit",
+  "select_image_first": "Please select an image first",
+  "enter_edit_prompt": "Describe the edit you want",
+  "editing_image": "Editing image...",
+  "edit_button": "Edit image",
+  "edited_images": "Edited images",
+  "image_edited_success": "Image edited successfully",
+   
    "generate_image_title": "Generate Image",
   "generate_image_subtitle": "Write what you want to see and let AI create it for you",
   "generating_image": "Generating image...",
